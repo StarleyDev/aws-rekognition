@@ -1,0 +1,2 @@
+boto3==1.33.11  # Replace with your desired version
+botocore==1.33.11  # Replace with your desired version
